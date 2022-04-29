@@ -11,7 +11,7 @@
   "author": "Luya Wang, Fanxuan Guo, Junkai Li, Xingyi Liu, Zhifan Wang, Jaehyun Ma",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.6.2",
+    "async": "^2.6.4",
     "body-parser": "^1.18.3",
     "cookie-parser": "^1.4.4",
     "ejs": "^2.6.1",
